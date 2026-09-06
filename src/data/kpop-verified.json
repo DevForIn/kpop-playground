@@ -1,0 +1,6883 @@
+{
+  "schemaVersion": "2.0",
+  "dataset": "gemini+musicbrainz-verified",
+  "snapshotDate": "2026-09-06",
+  "note": "제미나이 수집 + MusicBrainz 생일 교차검증. mbVerified=true=MB확인. mbFound=false=MB에없는그룹(제미나이값유지).",
+  "stats": {
+    "found": 118,
+    "notfound": 10,
+    "mem_matched": 352,
+    "mem_total": 720,
+    "mem_unmatched": 368
+  },
+  "groups": [
+    {
+      "nameKo": "비투비",
+      "name": "BTOB",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2012-03-21",
+      "agency": "큐브 엔터테인먼트 (데뷔 기준)",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "서은광",
+          "birthDate": "1990-11-22",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이민혁",
+          "birthDate": "1990-11-29",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이창섭",
+          "birthDate": "1991-02-26",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "임현식",
+          "birthDate": "1992-03-07",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "프니엘",
+          "birthDate": "1993-03-10",
+          "initial": "ㅍ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "육성재",
+          "birthDate": "1995-05-02",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "크로스진",
+      "name": "CROSS GENE",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2012-06-11",
+      "agency": "아뮤즈코리아",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "신원호",
+          "birthDate": "1991-10-23",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "타쿠야",
+          "birthDate": "1992-03-18",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "상민",
+          "birthDate": "1992-07-07",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "용석",
+          "birthDate": "1993-01-08",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "씨클라운",
+      "name": "C-CLOWN",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2012-07-19",
+      "agency": "예당 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "롬",
+          "birthDate": "1990-09-06",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "시우",
+          "birthDate": "1993-05-05",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "레이",
+          "birthDate": "1994-04-19",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "강준",
+          "birthDate": "1994-04-21",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "T.K",
+          "birthDate": "1995-02-11",
+          "initial": "",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "마루",
+          "birthDate": "1997-09-25",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "백퍼센트",
+      "name": "100%",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2012-09-21",
+      "agency": "티오피미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "록현",
+          "birthDate": "1991-02-10",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "혁진",
+          "birthDate": "1993-12-20",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "종환",
+          "birthDate": "1992-11-23",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "찬용",
+          "birthDate": "1993-04-29",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "히스토리",
+      "name": "HISTORY",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2013-04-26",
+      "agency": "로엔 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "송경일",
+          "birthDate": "1987-12-19",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나도균",
+          "birthDate": "1991-02-11",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김시형",
+          "birthDate": "1992-05-15",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김재호",
+          "birthDate": "1992-09-17",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "장이정",
+          "birthDate": "1993-09-10",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "소년공화국",
+      "name": "Boys Republic",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2013-06-05",
+      "agency": "해피트라이브 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "원준",
+          "birthDate": "1988-11-22",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "선우",
+          "birthDate": "1992-03-12",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "성준",
+          "birthDate": "1992-12-17",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민수",
+          "birthDate": "1993-04-15",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수웅",
+          "birthDate": "1995-01-20",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "탑독",
+      "name": "ToppDogg",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2013-10-24",
+      "agency": "후너스 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "P군",
+          "birthDate": "1991-10-18",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "상도",
+          "birthDate": "1993-03-02",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "호준",
+          "birthDate": "1992-10-31",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "비주",
+          "birthDate": "1994-01-08",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제로",
+          "birthDate": "1994-01-20",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "아톰",
+          "birthDate": "1995-05-23",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "야노",
+          "birthDate": "1995-09-27",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "전설",
+      "name": "The Legend",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2014-07-09",
+      "agency": "SS 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "리슨",
+          "birthDate": "1989-10-09",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제혁",
+          "birthDate": "1991-03-03",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "로이",
+          "birthDate": "1991-08-31",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "창선",
+          "birthDate": "1992-07-05",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유민",
+          "birthDate": "1993-02-20",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "매드타운",
+      "name": "MADTOWN",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2014-10-06",
+      "agency": "제이튠캠프",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "무스",
+          "birthDate": "1991-03-09",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "대원",
+          "birthDate": "1992-03-17",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이건",
+          "birthDate": "1992-05-04",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "조타",
+          "birthDate": "1994-02-14",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "허준",
+          "birthDate": "1994-11-16",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "버피",
+          "birthDate": "1995-11-12",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "호",
+          "birthDate": "1995-06-18",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "핫샷",
+      "name": "HOTSHOT",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2014-10-31",
+      "agency": "스타크루이엔티",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "최준혁",
+          "birthDate": "1992-04-21",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "티모테오",
+          "birthDate": "1993-01-25",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "노태현",
+          "birthDate": "1993-10-15",
+          "initial": "ㄴ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하성운",
+          "birthDate": "1994-03-22",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤산",
+          "birthDate": "1994-08-22",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "고호정",
+          "birthDate": "1994-10-20",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "빅플로",
+      "name": "Bigflo",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2014-06-23",
+      "agency": "에이치오컴퍼니",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "정균",
+          "birthDate": "1987-11-27",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "론",
+          "birthDate": "1991-01-22",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유성",
+          "birthDate": "1992-10-08",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "하이탑",
+          "birthDate": "1994-03-19",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "의진",
+          "birthDate": "1990-02-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "스누퍼",
+      "name": "SNUPER",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2015-11-16",
+      "agency": "위드컴퍼니",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "태웅",
+          "birthDate": "1994-05-24",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수현",
+          "birthDate": "1992-10-01",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "상일",
+          "birthDate": "1993-05-01",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "우성",
+          "birthDate": "1994-09-24",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "상호",
+          "birthDate": "1995-02-10",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "세빈",
+          "birthDate": "1996-04-24",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "업텐션",
+      "name": "UP10TION",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2015-09-10",
+      "agency": "티오피미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "진후",
+          "birthDate": "1995-08-02",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "쿵수",
+          "birthDate": "1995-10-31",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "고결",
+          "birthDate": "1996-05-19",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "이진혁",
+          "birthDate": "1996-06-08",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "비토",
+          "birthDate": "1996-08-24",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "우석",
+          "birthDate": "1996-10-27",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "선율",
+          "birthDate": "1996-11-06",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "규진",
+          "birthDate": "1997-11-21",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "환희",
+          "birthDate": "1998-05-06",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "샤오",
+          "birthDate": "1998-12-13",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "로미오",
+      "name": "ROMEO",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2015-05-07",
+      "agency": "CT 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "승환",
+          "birthDate": "1994-12-10",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤성",
+          "birthDate": "1996-03-19",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "민성",
+          "birthDate": "1996-12-24",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "마일로",
+          "birthDate": "1996-08-20",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "카일",
+          "birthDate": "1997-01-15",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "현경",
+          "birthDate": "1998-09-05",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "강민",
+          "birthDate": "1999-09-05",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "크나큰",
+      "name": "KNK",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2016-03-03",
+      "agency": "YNB 엔터테인먼트 (데뷔 기준)",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "김지훈",
+          "birthDate": "1995-02-20",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "박서함",
+          "birthDate": "1993-10-28",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "정인성",
+          "birthDate": "1994-07-01",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "오희준",
+          "birthDate": "1996-05-08",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "임팩트",
+      "name": "IMFACT",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2016-01-27",
+      "agency": "스타제국",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "이지안",
+          "birthDate": "1993-11-08",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제업",
+          "birthDate": "1993-03-27",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "태호",
+          "birthDate": "1993-11-01",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "이상",
+          "birthDate": "1995-10-17",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "웅재",
+          "birthDate": "1998-05-28",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "빅톤",
+      "name": "VICTON",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2016-11-09",
+      "agency": "IST 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "한승우",
+          "birthDate": "1994-12-24",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "강승식",
+          "birthDate": "1995-04-16",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "임세준",
+          "birthDate": "1996-05-04",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "도한세",
+          "birthDate": "1996-09-25",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "최병찬",
+          "birthDate": "1997-11-12",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "정수빈",
+          "birthDate": "1999-04-05",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "바시티",
+      "name": "VARSITY",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2017-01-05",
+      "agency": "CSO 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "키드",
+          "birthDate": "1995-10-26",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "블릿",
+          "birthDate": "1995-08-29",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "데이먼",
+          "birthDate": "1996-07-02",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "씬",
+          "birthDate": "1996-09-03",
+          "initial": "ㅆ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "시월",
+          "birthDate": "1996-10-20",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "승보",
+          "birthDate": "1997-11-01",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "리호",
+          "birthDate": "1998-03-01",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다원",
+          "birthDate": "2000-01-25",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "매니",
+          "birthDate": "2001-11-17",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "골든차일드",
+      "name": "Golden Child",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2017-08-28",
+      "agency": "울림 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "이대열",
+          "birthDate": "1993-02-11",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "Y",
+          "birthDate": "1995-07-31",
+          "initial": "",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이장준",
+          "birthDate": "1997-03-03",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "TAG",
+          "birthDate": "1998-04-13",
+          "initial": "",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "배승민",
+          "birthDate": "1998-10-13",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "봉재현",
+          "birthDate": "1999-01-04",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김지범",
+          "birthDate": "1999-02-03",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김동현",
+          "birthDate": "1999-02-23",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "홍주찬",
+          "birthDate": "1999-07-31",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "최보민",
+          "birthDate": "2000-08-24",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "온앤오프",
+      "name": "ONF",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2017-08-03",
+      "agency": "WM 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "효진",
+          "birthDate": "1994-04-22",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이션",
+          "birthDate": "1994-01-07",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "승준",
+          "birthDate": "1995-08-12",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "재영",
+          "birthDate": "1995-01-23",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민균",
+          "birthDate": "1995-11-16",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유",
+          "birthDate": "1999-03-16",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "더보이즈",
+      "name": "THE BOYZ",
+      "gender": "male",
+      "generation": 3,
+      "debutDate": "2017-12-06",
+      "agency": "IST 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "상연",
+          "birthDate": "1996-11-04",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "제이콥",
+          "birthDate": "1997-05-30",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "영훈",
+          "birthDate": "1997-08-08",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "현재",
+          "birthDate": "1997-09-13",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "주연",
+          "birthDate": "1998-01-15",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "케빈",
+          "birthDate": "1998-02-23",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "뉴",
+          "birthDate": "1998-04-26",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "큐",
+          "birthDate": "1998-11-05",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "주학년",
+          "birthDate": "1999-03-09",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "선우",
+          "birthDate": "2000-04-12",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "에릭",
+          "birthDate": "2000-12-22",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "헬로비너스",
+      "name": "HELLOVENUS",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2012-05-09",
+      "agency": "판타지오 뮤직",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "앨리스",
+          "birthDate": "1990-03-21",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나라",
+          "birthDate": "1991-03-13",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "라임",
+          "birthDate": "1993-01-19",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "서영",
+          "birthDate": "1994-06-27",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유영",
+          "birthDate": "1995-01-23",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "여름",
+          "birthDate": "1996-06-04",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "피에스타",
+      "name": "FIESTAR",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2012-08-31",
+      "agency": "페이브 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "재이",
+          "birthDate": "1989-09-05",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "차오루",
+          "birthDate": "1987-08-30",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "린지",
+          "birthDate": "1989-10-22",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "혜미",
+          "birthDate": "1990-08-10",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "예지",
+          "birthDate": "1994-08-26",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "크레용팝",
+      "name": "Crayon Pop",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2012-07-19",
+      "agency": "크롬 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "금미",
+          "birthDate": "1988-01-03",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "엘린",
+          "birthDate": "1990-04-02",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "초아",
+          "birthDate": "1990-07-12",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "웨이",
+          "birthDate": "1990-07-12",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "소율",
+          "birthDate": "1991-05-15",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "타히티",
+      "name": "TAHITI",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2012-07-24",
+      "agency": "JLine 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "신민재",
+          "birthDate": "1991-08-13",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지수",
+          "birthDate": "1994-02-28",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "미소",
+          "birthDate": "1991-04-04",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "아리",
+          "birthDate": "1994-10-23",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제리",
+          "birthDate": "1992-08-27",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "레이디스 코드",
+      "name": "LADIES' CODE",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2013-03-07",
+      "agency": "폴라리스 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "애슐리",
+          "birthDate": "1991-11-09",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "소정",
+          "birthDate": "1993-09-03",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "주니",
+          "birthDate": "1994-12-08",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "베스티",
+      "name": "BESTie",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2013-07-12",
+      "agency": "YNB 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "혜연",
+          "birthDate": "1990-12-08",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유지",
+          "birthDate": "1991-01-02",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다혜",
+          "birthDate": "1993-06-12",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "해령",
+          "birthDate": "1994-11-11",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "소나무",
+      "name": "SONAMOO",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2014-12-29",
+      "agency": "TS 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "민재",
+          "birthDate": "1994-12-18",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "디애나",
+          "birthDate": "1995-09-10",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "의진",
+          "birthDate": "1996-10-08",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하이디",
+          "birthDate": "1996-12-21",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "뉴선",
+          "birthDate": "1997-06-19",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "라붐",
+      "name": "LABOUM",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2014-08-28",
+      "agency": "글로벌에이치미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "소연",
+          "birthDate": "1994-05-04",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "진예",
+          "birthDate": "1994-06-09",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "해인",
+          "birthDate": "1995-05-19",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "솔빈",
+          "birthDate": "1997-08-19",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "베리굿",
+      "name": "Berry Good",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2014-05-22",
+      "agency": "JTG 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "태하",
+          "birthDate": "1995-10-05",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "조현",
+          "birthDate": "1996-04-14",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "서율",
+          "birthDate": "1997-11-26",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다예",
+          "birthDate": "1998-02-25",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "세형",
+          "birthDate": "1998-12-13",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "고운",
+          "birthDate": "1998-12-28",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "에이프릴",
+      "name": "APRIL",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2015-08-24",
+      "agency": "DSP 미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "윤채경",
+          "birthDate": "1996-07-07",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김채원",
+          "birthDate": "1997-11-08",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이나은",
+          "birthDate": "1999-05-05",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "양예나",
+          "birthDate": "2000-05-22",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "레이첼",
+          "birthDate": "2000-08-28",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "이진솔",
+          "birthDate": "2001-12-04",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "다이아",
+      "name": "DIA",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2015-09-14",
+      "agency": "포켓돌스튜디오",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "유니스",
+          "birthDate": "1991-09-02",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "기희현",
+          "birthDate": "1995-06-16",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "예빈",
+          "birthDate": "1997-07-13",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "정채연",
+          "birthDate": "1997-12-01",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "은채",
+          "birthDate": "1999-05-26",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "주은",
+          "birthDate": "1995-06-07",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "구구단",
+      "name": "gugudan",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2016-06-28",
+      "agency": "젤리피쉬 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "하나",
+          "birthDate": "1993-04-30",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "미미",
+          "birthDate": "1993-01-01",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "해빈",
+          "birthDate": "1995-08-16",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "나영",
+          "birthDate": "1995-11-23",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "세정",
+          "birthDate": "1996-08-28",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "샐리",
+          "birthDate": "1996-06-05",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "소이",
+          "birthDate": "1996-11-21",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "미나",
+          "birthDate": "1999-12-04",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "프리스틴",
+      "name": "PRISTIN",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2017-03-21",
+      "agency": "플레디스 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "나영",
+          "birthDate": "1995-12-18",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "로아",
+          "birthDate": "1997-07-29",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유하",
+          "birthDate": "1997-11-05",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "은우",
+          "birthDate": "1998-07-01",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "레나",
+          "birthDate": "1998-10-19",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "결경",
+          "birthDate": "1998-12-16",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "예하나",
+          "birthDate": "1999-02-22",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "성연",
+          "birthDate": "1999-05-25",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시연",
+          "birthDate": "2000-11-14",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "카일라",
+          "birthDate": "2001-12-26",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "엘리스",
+      "name": "ELRIS / ALICE",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2017-06-01",
+      "agency": "후너스 엔터테인먼트 (데뷔 기준)",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "이제이",
+          "birthDate": "1997-08-13",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "도아",
+          "birthDate": "1999-02-02",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "채정",
+          "birthDate": "1999-08-26",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "연제",
+          "birthDate": "1999-10-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유경",
+          "birthDate": "1999-11-05",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "소희",
+          "birthDate": "1999-12-31",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "가린",
+          "birthDate": "2002-04-08",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "해시태그",
+      "name": "HASHTAG",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2017-10-11",
+      "agency": "LUK 팩토리",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "현지",
+          "birthDate": "1992-06-30",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수아",
+          "birthDate": "1995-03-24",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다정",
+          "birthDate": "1995-08-08",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "승은",
+          "birthDate": "1997-09-29",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수진",
+          "birthDate": "1999-12-03",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "소진",
+          "birthDate": "1999-09-24",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "굿데이",
+      "name": "GOOD DAY",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2017-08-30",
+      "agency": "C9 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "희진",
+          "birthDate": "1995-08-19",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지원",
+          "birthDate": "1999-04-01",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "체리",
+          "birthDate": "2000-03-03",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "채솔",
+          "birthDate": "1998-07-14",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "비바",
+          "birthDate": "2000-02-07",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나윤",
+          "birthDate": "1999-03-30",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "버스터즈",
+      "name": "BUSTERS",
+      "gender": "female",
+      "generation": 3,
+      "debutDate": "2017-11-27",
+      "agency": "마블링 이엔엠",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "지은",
+          "birthDate": "2005-03-05",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "타카라",
+          "birthDate": "2005-01-19",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "세이라",
+          "birthDate": "2004-01-27",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민지",
+          "birthDate": "2006-09-26",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "카드",
+      "name": "KARD",
+      "gender": "mixed",
+      "generation": 3,
+      "debutDate": "2017-07-19",
+      "agency": "DSP 미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "비엠",
+          "birthDate": "1992-10-20",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제이셉",
+          "birthDate": "1992-06-21",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "전소민",
+          "birthDate": "1996-08-22",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "전지우",
+          "birthDate": "1996-10-04",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "스트레이 키즈",
+      "name": "Stray Kids",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2018-03-25",
+      "agency": "JYP 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "방찬",
+          "birthDate": "1997-10-03",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "리노",
+          "birthDate": "1998-10-25",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "창빈",
+          "birthDate": "1999-08-11",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "현진",
+          "birthDate": "2000-03-20",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "한",
+          "birthDate": "2000-09-14",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "필릭스",
+          "birthDate": "2000-09-15",
+          "initial": "ㅍ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "승민",
+          "birthDate": "2000-09-22",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아이엔",
+          "birthDate": "2001-02-08",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "에이티즈",
+      "name": "ATEEZ",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2018-10-24",
+      "agency": "KQ 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "성화",
+          "birthDate": "1998-04-03",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "홍중",
+          "birthDate": "1998-11-07",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "윤호",
+          "birthDate": "1999-03-23",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "여상",
+          "birthDate": "1999-06-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "산",
+          "birthDate": "1999-07-10",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민기",
+          "birthDate": "1999-08-09",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "우영",
+          "birthDate": "1999-11-26",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "종호",
+          "birthDate": "2000-10-12",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "투모로우바이투게더",
+      "name": "TXT",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2019-03-04",
+      "agency": "빅히트 뮤직",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "연준",
+          "birthDate": "1999-09-13",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수빈",
+          "birthDate": "2000-12-05",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "범규",
+          "birthDate": "2001-03-13",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "태현",
+          "birthDate": "2002-02-05",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "휴닝카이",
+          "birthDate": "2002-08-14",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "원어스",
+      "name": "ONEUS",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2019-01-09",
+      "agency": "RBW",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "서호",
+          "birthDate": "1996-06-07",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이도",
+          "birthDate": "1997-07-26",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "건희",
+          "birthDate": "1998-06-27",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "환웅",
+          "birthDate": "1998-08-26",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시온",
+          "birthDate": "2000-01-10",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "원위",
+      "name": "ONEWE",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2019-05-13",
+      "agency": "RBW",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "용훈",
+          "birthDate": "1994-08-17",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "강현",
+          "birthDate": "1998-12-25",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하린",
+          "birthDate": "1998-03-29",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "동명",
+          "birthDate": "2000-01-10",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "기욱",
+          "birthDate": "2000-01-24",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "베리베리",
+      "name": "VERIVERY",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2019-01-09",
+      "agency": "젤리피쉬 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "동헌",
+          "birthDate": "1995-08-04",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "호영",
+          "birthDate": "1998-08-10",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민찬",
+          "birthDate": "1998-09-16",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "계현",
+          "birthDate": "1999-05-14",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "연호",
+          "birthDate": "2000-05-31",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "용승",
+          "birthDate": "2000-06-17",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "강민",
+          "birthDate": "2003-01-25",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "엔하이픈",
+      "name": "ENHYPEN",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-11-30",
+      "agency": "빌리프랩",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "희승",
+          "birthDate": "2001-10-15",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제이",
+          "birthDate": "2002-04-20",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제이크",
+          "birthDate": "2002-11-15",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "성훈",
+          "birthDate": "2002-12-08",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "선우",
+          "birthDate": "2003-06-24",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "정원",
+          "birthDate": "2004-02-09",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "니키",
+          "birthDate": "2005-12-09",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "트레저",
+      "name": "TREASURE",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-08-07",
+      "agency": "YG 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "최현석",
+          "birthDate": "1999-04-21",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지훈",
+          "birthDate": "2000-03-14",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "요시",
+          "birthDate": "2000-05-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "준규",
+          "birthDate": "2000-09-09",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤재혁",
+          "birthDate": "2001-07-23",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "아사히",
+          "birthDate": "2001-08-20",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "도영",
+          "birthDate": "2003-12-04",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "하루토",
+          "birthDate": "2004-04-05",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "박정우",
+          "birthDate": "2004-09-28",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "소정환",
+          "birthDate": "2005-02-18",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "크래비티",
+      "name": "CRAVITY",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-04-14",
+      "agency": "스타쉽 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "세림",
+          "birthDate": "1999-03-03",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "앨런",
+          "birthDate": "1999-04-26",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "정모",
+          "birthDate": "2000-02-05",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "우빈",
+          "birthDate": "2000-10-16",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "원진",
+          "birthDate": "2001-03-22",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "민희",
+          "birthDate": "2002-09-17",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "형준",
+          "birthDate": "2002-11-30",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "태영",
+          "birthDate": "2003-01-27",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "성민",
+          "birthDate": "2003-08-01",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "엠씨엔디",
+      "name": "MCND",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-02-27",
+      "agency": "티오피미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "캐슬제이",
+          "birthDate": "1999-05-31",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "빅",
+          "birthDate": "2001-04-25",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "휘준",
+          "birthDate": "2002-10-07",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "민재",
+          "birthDate": "2003-08-23",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윈",
+          "birthDate": "2004-12-22",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "티오원",
+      "name": "TOO / TO1",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-04-01",
+      "agency": "웨이크원",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "동건",
+          "birthDate": "1999-07-15",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "찬",
+          "birthDate": "1999-12-08",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지수",
+          "birthDate": "2000-01-19",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "재윤",
+          "birthDate": "2000-08-16",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제이유",
+          "birthDate": "2000-11-02",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "경호",
+          "birthDate": "2001-05-07",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다이โก",
+          "birthDate": "2002-01-21",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "렌타",
+          "birthDate": "2002-02-16",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "여정",
+          "birthDate": "2005-01-29",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "피원하모니",
+      "name": "P1Harmony",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-10-28",
+      "agency": "FNC 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "기호",
+          "birthDate": "2001-09-27",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "테오",
+          "birthDate": "2001-07-01",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지웅",
+          "birthDate": "2001-10-07",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "인탁",
+          "birthDate": "2003-08-31",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "소울",
+          "birthDate": "2005-02-01",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "종섭",
+          "birthDate": "2005-11-19",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "위아이",
+      "name": "WEi",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-10-05",
+      "agency": "위엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "장대현",
+          "birthDate": "1997-02-11",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김동한",
+          "birthDate": "1998-07-03",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유용하",
+          "birthDate": "1999-01-11",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김요한",
+          "birthDate": "1999-09-22",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "강석화",
+          "birthDate": "2000-12-01",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김준서",
+          "birthDate": "2001-11-20",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "드리핀",
+      "name": "DRIPPIN",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-10-28",
+      "agency": "울림 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "황윤성",
+          "birthDate": "2000-10-30",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이협",
+          "birthDate": "1999-08-13",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "주창욱",
+          "birthDate": "2001-07-25",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김동윤",
+          "birthDate": "2002-02-18",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김민서",
+          "birthDate": "2002-05-13",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "차준호",
+          "birthDate": "2002-07-09",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "비에이이173",
+      "name": "BAE173",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2020-11-19",
+      "agency": "포켓돌스튜디오",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "제이민",
+          "birthDate": "1999-10-16",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "한결",
+          "birthDate": "1999-12-07",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유준",
+          "birthDate": "2000-12-22",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "무진",
+          "birthDate": "2001-04-14",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "준서",
+          "birthDate": "2001-09-25",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "영서",
+          "birthDate": "2002-06-13",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "도하",
+          "birthDate": "2004-03-07",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "빛",
+          "birthDate": "2004-07-21",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "미래소년",
+      "name": "MIRAE",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2021-03-17",
+      "agency": "DSP 미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "이준혁",
+          "birthDate": "2000-05-16",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "리아노",
+          "birthDate": "2001-01-02",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유도현",
+          "birthDate": "2000-12-25",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "카엘",
+          "birthDate": "2002-01-18",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "손동표",
+          "birthDate": "2002-09-09",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "박시영",
+          "birthDate": "2003-05-06",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "장유빈",
+          "birthDate": "2004-06-10",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "오메가엑스",
+      "name": "OMEGA X",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2021-06-30",
+      "agency": "아이피큐",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "재한",
+          "birthDate": "1995-07-01",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "휘찬",
+          "birthDate": "1996-04-18",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "세빈",
+          "birthDate": "1996-04-24",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "한겸",
+          "birthDate": "1996-07-17",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "태동",
+          "birthDate": "1997-11-07",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "젠",
+          "birthDate": "1997-12-25",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제현",
+          "birthDate": "1999-04-20",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "케빈",
+          "birthDate": "2000-01-12",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "정훈",
+          "birthDate": "2000-02-14",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "혁",
+          "birthDate": "2000-03-15",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "예찬",
+          "birthDate": "2001-05-14",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "이펙스",
+      "name": "EPEX",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2021-06-08",
+      "agency": "C9 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "위시",
+          "birthDate": "2002-06-11",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "금동현",
+          "birthDate": "2003-05-14",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "뮤",
+          "birthDate": "2003-09-14",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "아민",
+          "birthDate": "2004-05-22",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "백승",
+          "birthDate": "2004-10-05",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "에이든",
+          "birthDate": "2005-01-24",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "예왕",
+          "birthDate": "2005-03-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제프",
+          "birthDate": "2005-04-21",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "킹덤",
+      "name": "KINGDOM",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2021-02-18",
+      "agency": "GF 엔터테인먼트",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "단",
+          "birthDate": "1997-11-01",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "아서",
+          "birthDate": "1998-04-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "무진",
+          "birthDate": "1998-11-20",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "루이",
+          "birthDate": "2001-04-08",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "아이반",
+          "birthDate": "2001-10-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "훤",
+          "birthDate": "2002-03-12",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "자한",
+          "birthDate": "2002-10-25",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "저스트비",
+      "name": "JUST B",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2021-06-30",
+      "agency": "블루닷 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "건우",
+          "birthDate": "2001-02-02",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "임지민",
+          "birthDate": "2001-05-22",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "JM",
+          "birthDate": "2001-10-11",
+          "initial": "",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "도염",
+          "birthDate": "2002-02-21",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "배인",
+          "birthDate": "2003-10-19",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "상우",
+          "birthDate": "2002-09-03",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "템페스트",
+      "name": "TEMPEST",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2022-03-02",
+      "agency": "위에화 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "한빈",
+          "birthDate": "1998-01-19",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "형섭",
+          "birthDate": "1999-08-09",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "혁",
+          "birthDate": "2000-04-17",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "은찬",
+          "birthDate": "2001-02-27",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "루",
+          "birthDate": "2001-12-03",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "화랑",
+          "birthDate": "2001-04-23",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "태래",
+          "birthDate": "2002-05-09",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "더뉴식스",
+      "name": "TNX",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2022-05-17",
+      "agency": "피네이션",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "최태훈",
+          "birthDate": "2002-11-19",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "우경준",
+          "birthDate": "2002-08-30",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "장현수",
+          "birthDate": "2003-09-16",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "천준혁",
+          "birthDate": "2004-09-20",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "은휘",
+          "birthDate": "2004-11-11",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "오성준",
+          "birthDate": "2005-08-30",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "에이티비오",
+      "name": "ATBO",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2022-07-27",
+      "agency": "IST 엔터테인먼트",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "오준석",
+          "birthDate": "2003-03-03",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "류준민",
+          "birthDate": "2003-04-05",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "배현준",
+          "birthDate": "2003-10-25",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "석매튜",
+          "birthDate": "2004-02-19",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "정승환",
+          "birthDate": "2004-01-27",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "김연규",
+          "birthDate": "2004-05-03",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "원빈",
+          "birthDate": "2004-07-01",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "블랭키",
+      "name": "BLANK2Y",
+      "gender": "male",
+      "generation": 4,
+      "debutDate": "2022-05-24",
+      "agency": "키스톤 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "DK",
+          "birthDate": "1998-02-16",
+          "initial": "",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "루이",
+          "birthDate": "1999-09-21",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "동혁",
+          "birthDate": "1999-12-18",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "시우",
+          "birthDate": "2001-02-16",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "마키",
+          "birthDate": "2001-11-05",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "성준",
+          "birthDate": "2002-03-01",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "소담",
+          "birthDate": "2004-11-26",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "있지",
+      "name": "ITZY",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2019-02-12",
+      "agency": "JYP 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "예지",
+          "birthDate": "2000-05-26",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "리아",
+          "birthDate": "2000-07-21",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "류진",
+          "birthDate": "2001-04-17",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "채령",
+          "birthDate": "2001-06-05",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유나",
+          "birthDate": "2003-12-09",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "에스파",
+      "name": "aespa",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2020-11-17",
+      "agency": "SM 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "카리나",
+          "birthDate": "2000-04-11",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지젤",
+          "birthDate": "2000-10-30",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윈터",
+          "birthDate": "2001-01-01",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "닝닝",
+          "birthDate": "2002-10-23",
+          "initial": "ㄴ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "아이브",
+      "name": "IVE",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-12-01",
+      "agency": "스타쉽 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "안유진",
+          "birthDate": "2003-09-01",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "가을",
+          "birthDate": "2002-09-24",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "레이",
+          "birthDate": "2004-02-03",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "장원영",
+          "birthDate": "2004-08-31",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "리즈",
+          "birthDate": "2004-11-21",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이서",
+          "birthDate": "2007-02-21",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "엔믹스",
+      "name": "NMIXX",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-02-22",
+      "agency": "JYP 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "릴리",
+          "birthDate": "2002-10-17",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "해원",
+          "birthDate": "2003-02-25",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "설윤",
+          "birthDate": "2004-01-26",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "배이",
+          "birthDate": "2004-12-28",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지우",
+          "birthDate": "2005-04-13",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "규진",
+          "birthDate": "2006-05-26",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "르세라핌",
+      "name": "LE SSERAFIM",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-05-02",
+      "agency": "쏘스뮤직",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "사쿠라",
+          "birthDate": "1998-03-19",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김채원",
+          "birthDate": "2000-08-01",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "허윤진",
+          "birthDate": "2001-10-08",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "카즈하",
+          "birthDate": "2003-08-09",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "홍은채",
+          "birthDate": "2006-11-10",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "뉴진스",
+      "name": "NewJeans",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-07-22",
+      "agency": "ADOR",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "민지",
+          "birthDate": "2004-05-07",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하니",
+          "birthDate": "2004-10-06",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다니엘",
+          "birthDate": "2005-04-11",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "해린",
+          "birthDate": "2006-05-15",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "혜인",
+          "birthDate": "2008-04-21",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "체리블렛",
+      "name": "Cherry Bullet",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2019-01-21",
+      "agency": "FNC 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "해윤",
+          "birthDate": "1996-01-10",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유주",
+          "birthDate": "1997-03-05",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "보라",
+          "birthDate": "1999-03-03",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지원",
+          "birthDate": "2000-09-04",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "레미",
+          "birthDate": "2001-04-26",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "채린",
+          "birthDate": "2002-03-13",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "메이",
+          "birthDate": "2004-11-16",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "로켓펀치",
+      "name": "Rocket Punch",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2019-08-07",
+      "agency": "울림 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "연희",
+          "birthDate": "2000-12-06",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "쥬리",
+          "birthDate": "1997-10-03",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수윤",
+          "birthDate": "2001-03-17",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "윤경",
+          "birthDate": "2001-11-01",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "소희",
+          "birthDate": "2003-08-14",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다현",
+          "birthDate": "2005-04-29",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "에버글로우",
+      "name": "EVERGLOW",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2019-03-18",
+      "agency": "위에화 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "이유",
+          "birthDate": "1998-05-19",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "시현",
+          "birthDate": "1999-08-05",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "미아",
+          "birthDate": "2000-01-13",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "온다",
+          "birthDate": "2000-05-18",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아샤",
+          "birthDate": "2000-08-19",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "런샤오팅",
+          "birthDate": "2000-12-29",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "파나틱스",
+      "name": "FANATICS",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2019-08-06",
+      "agency": "에프엔티엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "도아",
+          "birthDate": "2003-12-04",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "도이",
+          "birthDate": "1994-04-12",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "채린",
+          "birthDate": "1999-10-20",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지아이",
+          "birthDate": "2000-11-01",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "비아",
+          "birthDate": "2001-08-17",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나연",
+          "birthDate": "2001-09-24",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "위클리",
+      "name": "Weeekly",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2020-06-30",
+      "agency": "IST 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "이수진",
+          "birthDate": "2001-12-12",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "먼데이",
+          "birthDate": "2002-05-10",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "박소은",
+          "birthDate": "2002-10-26",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이재희",
+          "birthDate": "2004-03-18",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지한",
+          "birthDate": "2004-07-12",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "조아",
+          "birthDate": "2005-05-31",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "스테이씨",
+      "name": "STAYC",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2020-11-12",
+      "agency": "하이업 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "수민",
+          "birthDate": "2001-03-13",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시은",
+          "birthDate": "2001-08-01",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아이사",
+          "birthDate": "2002-01-23",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "세은",
+          "birthDate": "2003-06-14",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤",
+          "birthDate": "2004-04-14",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "재이",
+          "birthDate": "2004-12-09",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "시크릿넘버",
+      "name": "SECRET NUMBER",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2020-05-19",
+      "agency": "바인엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "레아",
+          "birthDate": "1995-08-12",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "디타",
+          "birthDate": "1996-12-25",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "진희",
+          "birthDate": "1998-01-19",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "민지",
+          "birthDate": "1999-03-31",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수담",
+          "birthDate": "1999-11-09",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "주",
+          "birthDate": "2000-03-24",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "시그니처",
+      "name": "cignature",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2020-02-04",
+      "agency": "C9 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "채솔",
+          "birthDate": "1998-07-14",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지원",
+          "birthDate": "1999-04-01",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "셀린",
+          "birthDate": "2000-06-20",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "클로이",
+          "birthDate": "2001-01-06",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "벨",
+          "birthDate": "2001-11-03",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "세미",
+          "birthDate": "2002-04-10",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "도희",
+          "birthDate": "2002-08-01",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "퍼플키스",
+      "name": "PURPLE KISS",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-03-15",
+      "agency": "RBW",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "나고은",
+          "birthDate": "1999-09-03",
+          "initial": "ㄴ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "도시",
+          "birthDate": "2000-02-11",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이레",
+          "birthDate": "2002-04-30",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유키",
+          "birthDate": "2002-11-06",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "채인",
+          "birthDate": "2002-12-05",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수안",
+          "birthDate": "2003-01-24",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "라잇썸",
+      "name": "LIGHTSUM",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-06-10",
+      "agency": "큐브 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "상아",
+          "birthDate": "2002-09-04",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "초원",
+          "birthDate": "2002-09-16",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "나영",
+          "birthDate": "2002-11-30",
+          "initial": "ㄴ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "히나",
+          "birthDate": "2003-04-07",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "주현",
+          "birthDate": "2004-04-08",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유정",
+          "birthDate": "2004-06-14",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "트라이비",
+      "name": "TRI.BE",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-02-17",
+      "agency": "TR 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "송선",
+          "birthDate": "1997-04-16",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "켈리",
+          "birthDate": "2002-01-16",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "현빈",
+          "birthDate": "2004-05-26",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지아",
+          "birthDate": "2005-07-30",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "소은",
+          "birthDate": "2005-12-10",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "미레",
+          "birthDate": "2006-03-26",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "빌리",
+      "name": "Billlie",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-11-10",
+      "agency": "미스틱스토리",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "문수아",
+          "birthDate": "1999-09-09",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수현",
+          "birthDate": "2000-01-15",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하람",
+          "birthDate": "2001-01-13",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "츠키",
+          "birthDate": "2002-09-21",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "션",
+          "birthDate": "2003-01-28",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시윤",
+          "birthDate": "2005-02-16",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하루나",
+          "birthDate": "2006-01-30",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "픽시",
+      "name": "PIXY",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-02-24",
+      "agency": "올라트 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "디아",
+          "birthDate": "2001-07-16",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수진",
+          "birthDate": "2001-11-29",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "린지",
+          "birthDate": "2002-08-18",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "린아",
+          "birthDate": "2003-05-22",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "버가부",
+      "name": "BUG A BOO",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2021-10-25",
+      "agency": "A team 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "초연",
+          "birthDate": "2001-08-01",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유우나",
+          "birthDate": "2000-09-03",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "레이니",
+          "birthDate": "2000-11-16",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지인",
+          "birthDate": "2001-08-30",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "은채",
+          "birthDate": "2002-10-06",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시안",
+          "birthDate": "2001-12-15",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "클라씨",
+      "name": "CLASS:y",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-05-05",
+      "agency": "M25",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "명형서",
+          "birthDate": "2001-06-25",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤채원",
+          "birthDate": "2003-06-04",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "홍혜주",
+          "birthDate": "2003-12-09",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김리원",
+          "birthDate": "2007-01-11",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "원지민",
+          "birthDate": "2007-11-25",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "박보은",
+          "birthDate": "2008-02-11",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "김선유",
+          "birthDate": "2008-03-20",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "피프티 피프티",
+      "name": "FIFTY FIFTY",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-11-18",
+      "agency": "어트랙트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "키나",
+          "birthDate": "2002-07-09",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "새나",
+          "birthDate": "2004-03-12",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시오",
+          "birthDate": "2004-10-06",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아란",
+          "birthDate": "2004-10-11",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "하이키",
+      "name": "H1-KEY",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-01-05",
+      "agency": "GLG",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "서이",
+          "birthDate": "2000-02-12",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "리이나",
+          "birthDate": "2001-02-21",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "휘서",
+          "birthDate": "2002-07-31",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "옐",
+          "birthDate": "2004-12-25",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "라필루스",
+      "name": "Lapillus",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-06-20",
+      "agency": "MLD 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "샤나",
+          "birthDate": "2003-03-13",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "샨티",
+          "birthDate": "2002-12-15",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "베시",
+          "birthDate": "2004-07-15",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "서원",
+          "birthDate": "2006-12-05",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하은",
+          "birthDate": "2008-11-02",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유에",
+          "birthDate": "2004-07-03",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "첫사랑",
+      "name": "CSR",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-07-27",
+      "agency": "팝뮤직",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "수아",
+          "birthDate": "2005-07-23",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "금희",
+          "birthDate": "2005-03-04",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시현",
+          "birthDate": "2005-01-07",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "서연",
+          "birthDate": "2005-03-26",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유나",
+          "birthDate": "2005-04-23",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "두나",
+          "birthDate": "2005-04-28",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "예원",
+          "birthDate": "2005-03-18",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "트리플에스",
+      "name": "tripleS",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2022-10-28",
+      "agency": "모드하우스",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "윤서연",
+          "birthDate": "2003-08-06",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "정혜린",
+          "birthDate": "2007-04-12",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "이지우",
+          "birthDate": "2005-10-24",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김채연",
+          "birthDate": "2004-12-04",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김유연",
+          "birthDate": "2001-02-09",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수민",
+          "birthDate": "2005-10-03",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나경",
+          "birthDate": "2002-10-13",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유빈",
+          "birthDate": "2005-02-03",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "아일릿",
+      "name": "ILLIT",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2024-03-25",
+      "agency": "빌리프랩",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "윤아",
+          "birthDate": "2004-01-15",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "민주",
+          "birthDate": "2004-05-11",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "모카",
+          "birthDate": "2004-10-08",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "원희",
+          "birthDate": "2007-06-26",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이로하",
+          "birthDate": "2008-02-04",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "베이비몬스터",
+      "name": "BABYMONSTER",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2023-11-27",
+      "agency": "YG 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "루카",
+          "birthDate": "2002-03-20",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "파리타",
+          "birthDate": "2005-08-26",
+          "initial": "ㅍ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아사",
+          "birthDate": "2006-04-17",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아현",
+          "birthDate": "2007-04-11",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "라미",
+          "birthDate": "2007-05-07",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "로라",
+          "birthDate": "2008-08-14",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "치키타",
+          "birthDate": "2009-02-17",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "키스오브라이프",
+      "name": "KISS OF LIFE",
+      "gender": "female",
+      "generation": 4,
+      "debutDate": "2023-07-05",
+      "agency": "S2 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "쥴리",
+          "birthDate": "2000-03-29",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나띠",
+          "birthDate": "2002-05-30",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "벨",
+          "birthDate": "2004-03-20",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "하늘",
+          "birthDate": "2005-05-25",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "제로베이스원",
+      "name": "ZEROBASEONE",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-07-10",
+      "agency": "웨이크원",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "김지웅",
+          "birthDate": "1998-12-14",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "장하오",
+          "birthDate": "2000-07-25",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "성한빈",
+          "birthDate": "2001-06-13",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "석매튜",
+          "birthDate": "2002-05-28",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김태래",
+          "birthDate": "2002-07-14",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "리키",
+          "birthDate": "2004-05-20",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김규빈",
+          "birthDate": "2004-08-30",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "박건욱",
+          "birthDate": "2005-01-10",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "한유진",
+          "birthDate": "2007-03-20",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "라이즈",
+      "name": "RIIZE",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-09-04",
+      "agency": "SM 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "쇼타로",
+          "birthDate": "2000-11-25",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "은석",
+          "birthDate": "2001-03-19",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "성찬",
+          "birthDate": "2001-09-13",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "원빈",
+          "birthDate": "2002-03-02",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "소희",
+          "birthDate": "2003-11-21",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "앤톤",
+          "birthDate": "2004-03-21",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "보이넥스트도어",
+      "name": "BOYNEXTDOOR",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-05-30",
+      "agency": "KOZ 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "성호",
+          "birthDate": "2003-09-04",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "리우",
+          "birthDate": "2003-10-22",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "명재현",
+          "birthDate": "2003-12-04",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "태산",
+          "birthDate": "2004-08-10",
+          "initial": "ㅌ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이한",
+          "birthDate": "2004-10-20",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "운학",
+          "birthDate": "2006-11-29",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "투어스",
+      "name": "TWS",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2024-01-22",
+      "agency": "플래디스 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "신유",
+          "birthDate": "2003-11-07",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "도훈",
+          "birthDate": "2005-01-30",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "영재",
+          "birthDate": "2005-05-31",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "한진",
+          "birthDate": "2006-01-05",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지훈",
+          "birthDate": "2006-03-28",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "경민",
+          "birthDate": "2007-10-02",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "플레이브",
+      "name": "PLAVE",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-03-12",
+      "agency": "VLAST",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "예준",
+          "birthDate": "2001-09-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "노아",
+          "birthDate": "2001-02-10",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "밤비",
+          "birthDate": "2002-07-15",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "은호",
+          "birthDate": "2003-05-24",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "하민",
+          "birthDate": "2004-11-01",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "싸이커스",
+      "name": "xikers",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-03-30",
+      "agency": "KQ 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "민재",
+          "birthDate": "2003-04-10",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "준민",
+          "birthDate": "2003-05-24",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수민",
+          "birthDate": "2004-04-07",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "진식",
+          "birthDate": "2004-07-30",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "현우",
+          "birthDate": "2004-12-04",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "정훈",
+          "birthDate": "2005-07-05",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "세은",
+          "birthDate": "2005-08-17",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유준",
+          "birthDate": "2005-10-05",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "헌터",
+          "birthDate": "2005-10-05",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "예찬",
+          "birthDate": "2005-10-21",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "미야오",
+      "name": "MEOVV",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-09-06",
+      "agency": "더블랙레이블",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "수인",
+          "birthDate": "2005-04-12",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "가원",
+          "birthDate": "2005-04-27",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "안나",
+          "birthDate": "2005-11-17",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "나린",
+          "birthDate": "2007-08-15",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "엘라",
+          "birthDate": "2008-12-01",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "영파씨",
+      "name": "YOUNG POSSE",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2023-10-18",
+      "agency": "DSP 미디어",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "정선혜",
+          "birthDate": "2004-04-12",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "위연정",
+          "birthDate": "2004-09-01",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지아나",
+          "birthDate": "2006-02-02",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "도은",
+          "birthDate": "2007-12-25",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "한지은",
+          "birthDate": "2009-11-05",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "큐더블유이알",
+      "name": "QWER",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2023-10-18",
+      "agency": "타마고 프로덕션",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "쵸단",
+          "birthDate": "1998-11-01",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "마젠타",
+          "birthDate": "1997-06-02",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "히나",
+          "birthDate": "2001-01-30",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "시연",
+          "birthDate": "2000-05-16",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "리센느",
+      "name": "RESCENE",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-03-26",
+      "agency": "더뮤즈 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "원희",
+          "birthDate": "2007-04-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "리브",
+          "birthDate": "2006-10-11",
+          "initial": "ㄹ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "미나미",
+          "birthDate": "2006-11-29",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "메이",
+          "birthDate": "2008-08-19",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "제나",
+          "birthDate": "2008-11-27",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "엔시티 위시",
+      "name": "NCT WISH",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2024-02-21",
+      "agency": "SM 엔터테인먼트",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "시온",
+          "birthDate": "2002-05-11",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "리쿠",
+          "birthDate": "2003-06-28",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "유우시",
+          "birthDate": "2004-04-05",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "재희",
+          "birthDate": "2005-06-21",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "료",
+          "birthDate": "2007-08-04",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "사쿠야",
+          "birthDate": "2007-11-18",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "이븐",
+      "name": "EVNNE",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-09-19",
+      "agency": "젤리피쉬 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "케이타",
+          "birthDate": "2001-07-04",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "박한빈",
+          "birthDate": "2002-03-01",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이정현",
+          "birthDate": "2002-09-11",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유승언",
+          "birthDate": "2004-01-02",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "지윤서",
+          "birthDate": "2004-10-15",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "문정현",
+          "birthDate": "2005-03-31",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "박지후",
+          "birthDate": "2006-07-14",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "앰퍼샌드원",
+      "name": "AMPERS&ONE",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-11-15",
+      "agency": "FNC 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "나캠든",
+          "birthDate": "2001-06-09",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "브라이언",
+          "birthDate": "2002-08-27",
+          "initial": "ㅂ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "최지호",
+          "birthDate": "2004-06-10",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "윤시윤",
+          "birthDate": "2005-01-08",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "카이렐",
+          "birthDate": "2005-07-03",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "마카야",
+          "birthDate": "2006-01-21",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "김승모",
+          "birthDate": "2006-07-03",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "넥스지",
+      "name": "NEXZ",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2024-05-20",
+      "agency": "JYP 엔터테인먼트",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "토모야",
+          "birthDate": "2006-01-19",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "유우",
+          "birthDate": "2005-04-27",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "하루",
+          "birthDate": "2006-01-23",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "소 건",
+          "birthDate": "2006-09-13",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "세이타",
+          "birthDate": "2006-11-28",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "휴이",
+          "birthDate": "2007-05-11",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "유키",
+          "birthDate": "2007-09-20",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "나우어데이즈",
+      "name": "NOWADAYS",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2024-04-02",
+      "agency": "큐브 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "현빈",
+          "birthDate": "2002-08-31",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "윤",
+          "birthDate": "2003-08-27",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "연우",
+          "birthDate": "2003-09-23",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "진혁",
+          "birthDate": "2004-05-21",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "시윤",
+          "birthDate": "2004-08-24",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "아크",
+      "name": "ARrC",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2024-08-19",
+      "agency": "미스틱스토리",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "최한",
+          "birthDate": "2007-04-10",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "도하",
+          "birthDate": "2004-02-12",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "현민",
+          "birthDate": "2005-04-14",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지빈",
+          "birthDate": "2006-08-08",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "끼엔",
+          "birthDate": "2004-10-09",
+          "initial": "ㄲ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "리오",
+          "birthDate": "2007-12-25",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지우",
+          "birthDate": "2008-11-01",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "에잇턴",
+      "name": "8TURN",
+      "gender": "male",
+      "generation": 5,
+      "debutDate": "2023-01-30",
+      "agency": "MNH 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "명호",
+          "birthDate": "2001-10-12",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "재윤",
+          "birthDate": "2002-07-02",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민호",
+          "birthDate": "2002-10-14",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "윤성",
+          "birthDate": "2003-11-13",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "해민",
+          "birthDate": "2004-03-16",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "경민",
+          "birthDate": "2004-12-06",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "윤규",
+          "birthDate": "2005-09-07",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "승헌",
+          "birthDate": "2007-05-15",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "이즈나",
+      "name": "iz*na",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-11-25",
+      "agency": "웨이크원",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "마이",
+          "birthDate": "2004-10-28",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "방지민",
+          "birthDate": "2005-05-08",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤지윤",
+          "birthDate": "2005-07-14",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "코코",
+          "birthDate": "2006-11-14",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "유사랑",
+          "birthDate": "2007-04-18",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "최정은",
+          "birthDate": "2007-08-04",
+          "initial": "ㅊ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "정세비",
+          "birthDate": "2008-01-22",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "캣츠아이",
+      "name": "KATSEYE",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-06-28",
+      "agency": "하이브 x 게펜",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "마농",
+          "birthDate": "2002-06-26",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "소피아",
+          "birthDate": "2002-12-31",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "다니엘라",
+          "birthDate": "2004-03-16",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "라라",
+          "birthDate": "2005-09-08",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "메간",
+          "birthDate": "2006-02-10",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "윤채",
+          "birthDate": "2007-12-06",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "유니스",
+      "name": "UNIS",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-03-27",
+      "agency": "F&F 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "진현주",
+          "birthDate": "2001-11-03",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "나나",
+          "birthDate": "2007-06-06",
+          "initial": "ㄴ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "젤리당카",
+          "birthDate": "2007-08-19",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "코토코",
+          "birthDate": "2007-10-28",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "방윤하",
+          "birthDate": "2009-02-28",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "엘리시아",
+          "birthDate": "2009-04-18",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "오윤아",
+          "birthDate": "2009-10-07",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "임서원",
+          "birthDate": "2011-01-27",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "배드빌런",
+      "name": "BADVILLAIN",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-06-03",
+      "agency": "빅플래닛메이드엔터",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "엠마",
+          "birthDate": "2000-04-26",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "클로이 영",
+          "birthDate": "2001-10-31",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "휴이",
+          "birthDate": "2004-11-20",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "윤서",
+          "birthDate": "2004-07-03",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이나빈",
+          "birthDate": "2005-07-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "빈",
+          "birthDate": "2004-11-27",
+          "initial": "ㅂ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "켈리",
+          "birthDate": "2006-03-08",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "캔디샵",
+      "name": "Candy Shop",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-03-27",
+      "agency": "브레이브 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "소람",
+          "birthDate": "2005-09-24",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수이",
+          "birthDate": "2007-08-15",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "사랑",
+          "birthDate": "2007-11-30",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "줄리아",
+          "birthDate": "2008-02-20",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "비비업",
+      "name": "VVUP",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-04-01",
+      "agency": "egoENT",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "현희",
+          "birthDate": "2005-07-18",
+          "initial": "ㅎ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "킴",
+          "birthDate": "2006-06-03",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "팬",
+          "birthDate": "2006-06-22",
+          "initial": "ㅍ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "수연",
+          "birthDate": "2007-05-24",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "메이딘",
+      "name": "MADEIN",
+      "gender": "female",
+      "generation": 5,
+      "debutDate": "2024-09-03",
+      "agency": "143 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "마시로",
+          "birthDate": "1999-12-16",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "미유",
+          "birthDate": "2003-01-09",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "수혜",
+          "birthDate": "2004-12-13",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "예서",
+          "birthDate": "2005-08-22",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "가은",
+          "birthDate": "2005-11-08",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "세리나",
+          "birthDate": "2006-05-03",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "나고미",
+          "birthDate": "2007-07-02",
+          "initial": "ㄴ",
+          "mbVerified": true,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "코르티스",
+      "name": "CORTIS",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2025-09-08",
+      "agency": "빅히트 뮤직",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "마틴",
+          "birthDate": "2006-03-12",
+          "initial": "ㅁ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "성현",
+          "birthDate": "2006-08-25",
+          "initial": "ㅅ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "제임스",
+          "birthDate": "2007-01-14",
+          "initial": "ㅈ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "주안",
+          "birthDate": "2007-09-02",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "건우",
+          "birthDate": "2008-05-19",
+          "initial": "ㄱ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "킥플립",
+      "name": "KickFlip",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2025-01-20",
+      "agency": "JYP 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "계훈",
+          "birthDate": "2004-02-14",
+          "initial": "ㄱ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "아마루",
+          "birthDate": "2005-10-21",
+          "initial": "ㅇ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "동현",
+          "birthDate": "2006-03-18",
+          "initial": "ㄷ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "케이주",
+          "birthDate": "2006-10-04",
+          "initial": "ㅋ",
+          "mbVerified": true,
+          "mbNote": null
+        },
+        {
+          "name": "이동곤",
+          "birthDate": "2007-01-29",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "알디원",
+      "name": "ALD1",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2026-01-12",
+      "agency": "웨이크원",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "안형섭",
+          "birthDate": "2005-02-11",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "리우",
+          "birthDate": "2005-08-19",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "진우",
+          "birthDate": "2006-04-03",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "유토",
+          "birthDate": "2006-12-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "도현",
+          "birthDate": "2007-03-25",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "민성",
+          "birthDate": "2007-09-14",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "성민",
+          "birthDate": "2008-01-08",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "지훈",
+          "birthDate": "2008-06-30",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "아이디드",
+      "name": "ID:D",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2025-05-12",
+      "agency": "하이브 (HYBE)",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "도현",
+          "birthDate": "2005-08-19",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "시우",
+          "birthDate": "2006-02-14",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "재민",
+          "birthDate": "2006-11-03",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "한별",
+          "birthDate": "2007-04-21",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "승호",
+          "birthDate": "2008-01-15",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "네크서스",
+      "name": "NEXUS",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2026-01-15",
+      "agency": "YG 엔터테인먼트",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "준혁",
+          "birthDate": "2006-04-10",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "다니엘",
+          "birthDate": "2006-09-22",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "태현",
+          "birthDate": "2007-02-18",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "하루",
+          "birthDate": "2007-10-05",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "연우",
+          "birthDate": "2008-03-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "콤마",
+      "name": "Comma",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2026-01-09",
+      "agency": "4824컴퍼니",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "정우",
+          "birthDate": "2005-06-12",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "민재",
+          "birthDate": "2006-01-20",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "선호",
+          "birthDate": "2006-08-09",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "현준",
+          "birthDate": "2007-05-30",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "에이투오 소울",
+      "name": "A2O SOUL",
+      "gender": "male",
+      "generation": 6,
+      "debutDate": "2026-08-10",
+      "agency": "A2O 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "루이",
+          "birthDate": "2005-12-01",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "성진",
+          "birthDate": "2006-05-14",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "카이",
+          "birthDate": "2007-02-08",
+          "initial": "ㅋ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "태윤",
+          "birthDate": "2007-11-19",
+          "initial": "ㅌ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "하츠투하츠",
+      "name": "Hearts2Hearts",
+      "gender": "female",
+      "generation": 6,
+      "debutDate": "2025-02-14",
+      "agency": "SM 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "지우",
+          "birthDate": "2006-11-05",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "서윤",
+          "birthDate": "2007-03-18",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "아린",
+          "birthDate": "2007-10-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "민하",
+          "birthDate": "2008-02-24",
+          "initial": "ㅁ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "체이서",
+      "name": "CHASER",
+      "gender": "female",
+      "generation": 6,
+      "debutDate": "2026-02-02",
+      "agency": "큐브 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "수아",
+          "birthDate": "2007-09-12",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "유진",
+          "birthDate": "2008-01-25",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "채원",
+          "birthDate": "2008-06-04",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지은",
+          "birthDate": "2009-02-17",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "언차일드",
+      "name": "UNCHILD",
+      "gender": "female",
+      "generation": 6,
+      "debutDate": "2026-05-18",
+      "agency": "하이업 엔터테인먼트",
+      "mbFound": false,
+      "members": [
+        {
+          "name": "채령",
+          "birthDate": "2006-07-22",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "지민",
+          "birthDate": "2007-01-09",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "유나",
+          "birthDate": "2007-09-15",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "서아",
+          "birthDate": "2008-04-03",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": null
+        },
+        {
+          "name": "하은",
+          "birthDate": "2008-11-28",
+          "initial": "ㅎ",
+          "mbVerified": false,
+          "mbNote": null
+        }
+      ]
+    },
+    {
+      "nameKo": "레이턴시",
+      "name": "LATENCY",
+      "gender": "female",
+      "generation": 6,
+      "debutDate": "2026-01-08",
+      "agency": "FNC 엔터테인먼트",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "수현",
+          "birthDate": "2005-09-10",
+          "initial": "ㅅ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "아영",
+          "birthDate": "2006-03-04",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "예빈",
+          "birthDate": "2006-11-12",
+          "initial": "ㅇ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "다은",
+          "birthDate": "2007-07-19",
+          "initial": "ㄷ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    },
+    {
+      "nameKo": "올데이 프로젝트",
+      "name": "ALL DAY PROJECT",
+      "gender": "mixed",
+      "generation": 6,
+      "debutDate": "2025-11-03",
+      "agency": "더블랙레이블",
+      "mbFound": true,
+      "members": [
+        {
+          "name": "찬우",
+          "birthDate": "2005-04-12",
+          "initial": "ㅊ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "제이든",
+          "birthDate": "2006-01-29",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "지수",
+          "birthDate": "2006-08-17",
+          "initial": "ㅈ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        },
+        {
+          "name": "리아",
+          "birthDate": "2007-03-05",
+          "initial": "ㄹ",
+          "mbVerified": false,
+          "mbNote": "MB멤버명단에없음(표기차이or미검증)"
+        }
+      ]
+    }
+  ]
+}

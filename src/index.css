@@ -1,0 +1,283 @@
+:root {
+  --bg: #0f0a1e;
+  --bg2: #1a1030;
+  --card: #1e1638;
+  --card2: #291d4d;
+  --text: #f3efff;
+  --muted: #a99fd0;
+  --border: #362a5e;
+  --pink: #ff5db1;
+  --purple: #9b5cff;
+  --cyan: #47e0ff;
+  --gold: #ffd166;
+  --grad: linear-gradient(135deg, #ff5db1, #9b5cff);
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 480px;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 18px 16px 50px;
+  position: relative;
+}
+
+/* 상단 홈 링크 */
+.topbar { padding: 6px 0 10px; }
+.home-link {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* 히어로 */
+.hero { text-align: center; padding: 20px 0; }
+.logo {
+  font-size: 30px;
+  font-weight: 900;
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.02em;
+}
+.tagline { color: var(--muted); font-size: 15px; margin-top: 8px; }
+
+/* 게임 카드 (메인 허브) */
+.game-list { display: flex; flex-direction: column; gap: 14px; margin-top: 20px; }
+.game-card {
+  display: block;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 22px 20px;
+  transition: transform 0.12s, border-color 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.game-card:active { transform: scale(0.98); }
+.game-card.feature {
+  background: var(--grad);
+  border: none;
+}
+.game-emoji { font-size: 32px; }
+.game-title { font-size: 20px; font-weight: 800; margin: 8px 0 4px; }
+.game-desc { font-size: 14px; color: var(--muted); }
+.game-card.feature .game-desc { color: rgba(255,255,255,0.85); }
+.game-card.feature .game-title { color: #fff; }
+
+/* 버튼 */
+.btn {
+  display: inline-block;
+  width: 100%;
+  padding: 16px;
+  border: none;
+  border-radius: 16px;
+  background: var(--grad);
+  color: #fff;
+  font-size: 17px;
+  font-weight: 800;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  transition: transform 0.1s;
+}
+.btn:active { transform: scale(0.98); }
+.btn.ghost {
+  background: var(--card2);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+/* 진행 표시 */
+.progress { height: 6px; background: var(--card2); border-radius: 99px; overflow: hidden; margin: 16px 0; }
+.progress > div { height: 100%; background: var(--grad); transition: width 0.3s; }
+.q-count { text-align: center; color: var(--muted); font-size: 14px; margin-bottom: 8px; }
+
+/* 퀴즈 */
+.quiz-q {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: 6px;
+  padding: 30px 0;
+  background: var(--card);
+  border-radius: 20px;
+  margin-bottom: 18px;
+}
+.quiz-input {
+  width: 100%;
+  padding: 16px;
+  background: var(--card);
+  border: 2px solid var(--purple);
+  border-radius: 14px;
+  color: var(--text);
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  outline: none;
+  margin-bottom: 14px;
+}
+.quiz-input:disabled { opacity: 0.7; }
+.fb { text-align: center; font-size: 17px; font-weight: 700; padding: 6px 0 14px; }
+.fb.correct { color: #06d6a0; }
+.fb.wrong { color: #ff5db1; }
+.fb.wrong b { color: var(--text); }
+
+.options { display: flex; flex-direction: column; gap: 10px; }
+.option {
+  padding: 16px;
+  background: var(--card);
+  border: 2px solid var(--border);
+  border-radius: 14px;
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.12s;
+}
+.option:active { transform: scale(0.98); }
+.option.correct { border-color: #06d6a0; background: rgba(6,214,160,0.15); }
+.option.wrong { border-color: #ff4d6d; background: rgba(255,77,109,0.15); }
+
+/* 밸런스 / 월드컵 VS */
+.vs-wrap { display: flex; flex-direction: column; gap: 14px; margin-top: 10px; position: relative; }
+.vs-card {
+  padding: 34px 20px;
+  border-radius: 20px;
+  border: 2px solid var(--border);
+  background: var(--card);
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.12s, border-color 0.2s;
+}
+.vs-card:active { transform: scale(0.97); }
+.vs-card .vc-emoji { font-size: 40px; }
+.vs-card .vc-text { font-size: 19px; font-weight: 800; margin-top: 10px; line-height: 1.35; }
+.vs-card .vc-sub { font-size: 13px; color: var(--muted); margin-top: 6px; }
+.vs-badge {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--grad);
+  color: #fff;
+  font-weight: 900;
+  font-size: 15px;
+  width: 46px; height: 46px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  z-index: 2;
+  border: 3px solid var(--bg);
+}
+
+/* MV 임베드 */
+.mv-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #000;
+}
+.mv-embed iframe { width: 100%; height: 100%; border: 0; }
+.mv-pick { margin-top: 10px; }
+
+/* 결과 */
+.result { text-align: center; padding: 20px 0; }
+.result-emoji { font-size: 60px; }
+.result-title { font-size: 15px; color: var(--muted); margin: 14px 0 6px; }
+.result-main {
+  font-size: 34px; font-weight: 900;
+  background: var(--grad);
+  -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
+}
+.result-score { font-size: 46px; font-weight: 900; margin: 8px 0; }
+.result-sub { color: var(--muted); font-size: 15px; margin-top: 8px; }
+
+/* 다른 게임 추천 (바이럴) */
+.more-games { margin-top: 30px; }
+.more-title { font-size: 15px; font-weight: 700; margin-bottom: 12px; color: var(--muted); }
+
+/* 헤더 (게임 페이지) */
+.page-head { text-align: center; padding: 10px 0 16px; }
+.page-title { font-size: 22px; font-weight: 800; }
+.page-sub { color: var(--muted); font-size: 14px; margin-top: 6px; }
+
+.share-row { display: flex; gap: 10px; margin-top: 16px; }
+.share-row .btn { margin: 0; }
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+  padding: 30px 0 10px;
+}
+footer a { color: inherit; }
+
+.gen-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 20px;
+}
+.gen-grid .btn:first-child { grid-column: 1 / -1; }
+.gen-toggles {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-top: 14px;
+}
+.gen-toggle {
+  padding: 14px 4px;
+  background: var(--card);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  color: var(--muted);
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.12s;
+}
+.gen-toggle.on {
+  border-color: var(--pink);
+  background: rgba(255,93,177,0.15);
+  color: var(--text);
+}
+.avail-info {
+  text-align: center;
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 12px;
+}
+.back-link {
+  display: block;
+  width: 100%;
+  margin-top: 14px;
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 14px;
+  cursor: pointer;
+}
+.verify-note {
+  text-align: center;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 14px;
+  opacity: 0.75;
+}
+.seo-text { color: var(--muted); font-size: 13px; line-height: 1.7; padding: 20px 4px; }
+.seo-text h2 { color: var(--text); font-size: 17px; }
