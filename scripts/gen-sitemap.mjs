@@ -2,7 +2,7 @@ import { writeFileSync } from 'node:fs';
 
 const SITE = process.env.SITE_URL || 'https://kpop-playground.vercel.app';
 const today = new Date().toISOString().slice(0, 10);
-const urls = ['/', '/quiz', '/balance', '/worldcup', '/mv-worldcup', '/fancam-worldcup'];
+const urls = ['/', '/quiz', '/balance', '/worldcup', '/mv-worldcup', '/fancam-worldcup', '/fortune', '/birthday'];
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

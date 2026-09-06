@@ -41,6 +41,16 @@ export default function Home() {
           <div className="game-title">직캠 월드컵</div>
           <div className="game-desc">최애의 직캠으로 최고의 무대 뽑기</div>
         </Link>
+        <Link to="/fortune" className="game-card">
+          <span className="game-emoji">🔮</span>
+          <div className="game-title">오늘의 K-POP 운세</div>
+          <div className="game-desc">오늘의 운명 아이돌은? 매일 바뀜</div>
+        </Link>
+        <Link to="/birthday" className="game-card">
+          <span className="game-emoji">🎂</span>
+          <div className="game-title">오늘 생일인 아이돌</div>
+          <div className="game-desc">오늘 생일 맞은 아이돌 확인</div>
+        </Link>
       </div>
 
       <section className="seo-text">

@@ -272,6 +272,16 @@ footer a { color: inherit; }
   font-size: 14px;
   cursor: pointer;
 }
+.fortune-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 16px;
+}
+.fortune-row:last-child { border-bottom: none; }
+.fortune-row span { color: var(--muted); }
+.fortune-row b { color: var(--text); }
 .verify-note {
   text-align: center;
   font-size: 11px;

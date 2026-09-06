@@ -6,10 +6,12 @@ const GAMES = [
   { path: '/balance', emoji: '⚖️', title: '밸런스게임' },
   { path: '/mv-worldcup', emoji: '🎬', title: 'MV 월드컵' },
   { path: '/fancam-worldcup', emoji: '📹', title: '직캠 월드컵' },
+  { path: '/fortune', emoji: '🔮', title: '오늘의 운세' },
+  { path: '/birthday', emoji: '🎂', title: '오늘 생일 아이돌' },
 ];
 
 export function MoreGames({ exclude }: { exclude?: string }) {
-  const list = GAMES.filter((g) => g.path !== exclude);
+  const list = GAMES.filter((g) => g.path !== exclude).slice(0, 4);
   return (
     <div className="more-games">
       <div className="more-title">🔥 이것도 해봐</div>
