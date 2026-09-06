@@ -7,6 +7,7 @@ import MvWorldcup from './pages/MvWorldcup';
 import Fancam from './pages/Fancam';
 import Fortune from './pages/Fortune';
 import Birthday from './pages/Birthday';
+import Privacy from './pages/Privacy';
 
 export const routes: RouteRecord[] = [
   { path: '/', element: <Home />, entry: 'src/pages/Home.tsx' },
@@ -17,4 +18,5 @@ export const routes: RouteRecord[] = [
   { path: '/fancam-worldcup', element: <Fancam />, entry: 'src/pages/Fancam.tsx' },
   { path: '/fortune', element: <Fortune />, entry: 'src/pages/Fortune.tsx' },
   { path: '/birthday', element: <Birthday />, entry: 'src/pages/Birthday.tsx' },
+  { path: '/privacy', element: <Privacy />, entry: 'src/pages/Privacy.tsx' },
 ];

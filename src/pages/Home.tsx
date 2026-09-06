@@ -64,6 +64,7 @@ export default function Home() {
 
       <footer>
         © 2026 KPOP 놀이터 · 재미로 즐기는 K-POP 게임 · by DevForIn
+        <br /><Link to="/privacy" style={{ color: 'inherit' }}>개인정보처리방침</Link>
       </footer>
     </div>
   );
